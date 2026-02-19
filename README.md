@@ -7,7 +7,7 @@ Sou um Analista de Sistemas focado em construir soluções de backend robustas e
 ---
 
 ### 🛠 No que eu trabalho:
-- **Backend:** Desenvolvimento de APIs de alta performance com **Go (Golang)** e manutenção de sistemas legados em PHP.
+- **Backend:** Desenvolvimento de APIs e manutenção de sistemas.
 - **DevOps & Infra:** Containerização de aplicações com **Docker** e automação de rotinas em servidores **Linux**.
 - **Observabilidade:** Implementação de monitoramento inteligente com **Prometheus e Grafana**.
 - **Resolução de Problemas:** Troubleshooting avançado em sistemas corporativos e gestão de infraestrutura.
